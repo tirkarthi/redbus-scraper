@@ -16,4 +16,4 @@ This is a simple redbus scraper that scrapes the redbus ticket data as per the c
 
 ## License
 
-The code is Distributed under the MIT License
+The code is distributed under the MIT License
