@@ -1,0 +1,6907 @@
+{
+  "SRD": [
+    {
+      "src": null,
+      "dst": null,
+      "isExactMatch": false,
+      "RIN": [
+        {
+          "DN": "private",
+          "IsGroup": false,
+          "InvList": [
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:6:100:0;6:8:75:0;8:12:65:0;12:-1:55:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.20151421261969",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 435,
+              "serviceId": 22950,
+              "serviceName": "Chennai To Coimbatore Day",
+              "vt": "bus",
+              "Ament": [
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 48237,
+                  "BpTime": 690,
+                  "BPTimeStr": "11:30"
+                },
+                {
+                  "BpId": 1669436,
+                  "BpTime": 750,
+                  "BPTimeStr": "12:30"
+                },
+                {
+                  "BpId": 96511,
+                  "BpTime": 780,
+                  "BPTimeStr": "13:00"
+                },
+                {
+                  "BpId": 96513,
+                  "BpTime": 810,
+                  "BPTimeStr": "13:30"
+                },
+                {
+                  "BpId": 96514,
+                  "BpTime": 820,
+                  "BPTimeStr": "13:40"
+                },
+                {
+                  "BpId": 96515,
+                  "BpTime": 830,
+                  "BPTimeStr": "13:50"
+                },
+                {
+                  "BpId": 113148,
+                  "BpTime": 840,
+                  "BPTimeStr": "14:00"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 48359,
+                  "BpTime": 1185,
+                  "BPTimeStr": "19:45"
+                }
+              ],
+              "ArivalTime": "3/31/2017 7:45:00 PM",
+              "BsTp": "Volvo A/C MultiAxle Semisleeper (2+2)",
+              "DepTime": "3/31/2017 12:30:00 PM",
+              "FrLst": [
+                600
+              ],
+              "MinFare": 600,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 36,
+              "WnSt": 17,
+              "OpId": 2617,
+              "RtId": 9118510,
+              "Tvs": "Kallada Travels (Suresh Kallada)",
+              "Rtg": {
+                "totRt": 3,
+                "Rt": {
+                  "Ct": "8"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "1",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "AfterNoon",
+              "ArTmMin": 1185,
+              "DepTmMin": 750,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1490969700000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490943600000+0530)\\/\"",
+              "lp": "ind/logo/2617.png",
+              "ImageGalleryId": 636,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:25:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.66814236347107",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 500,
+              "serviceId": 18,
+              "serviceName": "Chennai,Tirupur,palladam ,udumalai pet  ,pollachi",
+              "vt": "bus",
+              "Ament": [
+                4,
+                5,
+                7,
+                8,
+                9,
+                22,
+                23,
+                24
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 547755,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 547759,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 547741,
+                  "BpTime": 1270,
+                  "BPTimeStr": "21:10"
+                },
+                {
+                  "BpId": 547743,
+                  "BpTime": 1280,
+                  "BPTimeStr": "21:20"
+                },
+                {
+                  "BpId": 573876,
+                  "BpTime": 1285,
+                  "BPTimeStr": "21:25"
+                },
+                {
+                  "BpId": 547744,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 547761,
+                  "BpTime": 1295,
+                  "BPTimeStr": "21:35"
+                },
+                {
+                  "BpId": 547745,
+                  "BpTime": 1300,
+                  "BPTimeStr": "21:40"
+                },
+                {
+                  "BpId": 547746,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 800416,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 547753,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 547749,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1011183,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 547751,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 547750,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 531343,
+                  "BpTime": 290,
+                  "BPTimeStr": "04:50"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:50:00 AM",
+              "BsTp": "A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 8:30:00 PM",
+              "FrLst": [
+                600
+              ],
+              "MinFare": 600,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 30,
+              "WnSt": 12,
+              "OpId": 6003,
+              "RtId": 5027025,
+              "Tvs": "RKG Travels",
+              "Rtg": {
+                "totRt": 3.8,
+                "Rt": {
+                  "Ct": "14"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 290,
+              "DepTmMin": 1230,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491002400000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490972400000+0530)\\/\"",
+              "lp": "ind/logo/6003.png",
+              "ImageGalleryId": -1,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:1:100:0;1:5:50:0;5:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "5",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 525,
+              "serviceId": 0,
+              "serviceName": "Chennai To Tirupur",
+              "vt": "bus",
+              "Ament": [
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1111980,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1357018,
+                  "BpTime": 1280,
+                  "BPTimeStr": "21:20"
+                },
+                {
+                  "BpId": 1111977,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 1111999,
+                  "BpTime": 1295,
+                  "BPTimeStr": "21:35"
+                },
+                {
+                  "BpId": 1111995,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1111988,
+                  "BpTime": 1310,
+                  "BPTimeStr": "21:50"
+                },
+                {
+                  "BpId": 1111984,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1112007,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 1112013,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1111991,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1112003,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1111985,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1112036,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "Non A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 9:15:00 PM",
+              "FrLst": [
+                550
+              ],
+              "MinFare": 550,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 21,
+              "WnSt": 8,
+              "OpId": 10128,
+              "RtId": 8307172,
+              "Tvs": "GMS Logistics India Pvt Ltd",
+              "Rtg": {
+                "totRt": 4.6,
+                "Rt": {
+                  "Ct": "86"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1275,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490975100000+0530)\\/\"",
+              "lp": "ind/logo/10128.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.57566126938911",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 590,
+              "serviceId": 1269,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [
+                5,
+                7,
+                9,
+                22,
+                23,
+                24,
+                27
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1234024,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 390739,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1030043,
+                  "BpTime": 1295,
+                  "BPTimeStr": "21:35"
+                },
+                {
+                  "BpId": 390396,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 390764,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 394200,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 392156,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 392157,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 392159,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 392158,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 392161,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                },
+                {
+                  "BpId": 392160,
+                  "BpTime": 1390,
+                  "BPTimeStr": "23:10"
+                },
+                {
+                  "BpId": 392162,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                }
+              ],
+              "DPLst": [],
+              "ArivalTime": "4/1/2017 6:50:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 9:00:00 PM",
+              "FrLst": [
+                990
+              ],
+              "MinFare": 990,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 30,
+              "WnSt": 20,
+              "OpId": 4674,
+              "RtId": 9130057,
+              "Tvs": "Shri Baghyalakshmi Travels(SBLT)",
+              "Rtg": {
+                "totRt": 3.8,
+                "Rt": {
+                  "Ct": "18"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 410,
+              "DepTmMin": 1260,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491009600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490974200000+0530)\\/\"",
+              "lp": "ind/logo/4674.png",
+              "ImageGalleryId": 505,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:8:50:0;8:12:25:0;12:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "2.70336653779342",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 480,
+              "serviceId": 0,
+              "serviceName": "Chennai To Coimbatore(Thirupur)",
+              "vt": "bus",
+              "Ament": [
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1169798,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1567956,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1169805,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1606380,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 1169809,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 1169800,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                },
+                {
+                  "BpId": 1606381,
+                  "BpTime": 1405,
+                  "BPTimeStr": "23:25"
+                },
+                {
+                  "BpId": 1567957,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                },
+                {
+                  "BpId": 1606382,
+                  "BpTime": 1415,
+                  "BPTimeStr": "23:35"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1169820,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 10:00:00 PM",
+              "FrLst": [
+                900
+              ],
+              "MinFare": 900,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 20,
+              "WnSt": 13,
+              "OpId": 10455,
+              "RtId": 8382957,
+              "Tvs": "PNK SRT    Travels",
+              "Rtg": {
+                "totRt": 4.2,
+                "Rt": {
+                  "Ct": "39"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1320,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490977800000+0530)\\/\"",
+              "lp": "ind/logo/10455.png",
+              "ImageGalleryId": 853,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:4:100:0;4:8:50:0;8:12:25:0;12:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "4.04805597518422",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 510,
+              "serviceId": 0,
+              "serviceName": "Chennai To Thirupur",
+              "vt": "bus",
+              "Ament": [
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1169798,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 1567956,
+                  "BpTime": 1310,
+                  "BPTimeStr": "21:50"
+                },
+                {
+                  "BpId": 1169805,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1169809,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1606380,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1169800,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1573060,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1567957,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1169788,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1606382,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1169820,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "Non A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 9:30:00 PM",
+              "FrLst": [
+                700
+              ],
+              "MinFare": 700,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 30,
+              "WnSt": 15,
+              "OpId": 10455,
+              "RtId": 8382959,
+              "Tvs": "PNK SRT    Travels",
+              "Rtg": {
+                "totRt": 4.4,
+                "Rt": {
+                  "Ct": "60"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "14",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1290,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490976000000+0530)\\/\"",
+              "lp": "ind/logo/10455.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:20:0;24:168:15:0;168:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "2.5319580719676",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 510,
+              "serviceId": 236,
+              "serviceName": "CHENNAI - TIRUPUR  NON SEATER /SLEEPER",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1446739,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1446742,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1446743,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1236583,
+                  "BpTime": 1367,
+                  "BPTimeStr": "22:47"
+                },
+                {
+                  "BpId": 1446744,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 1446745,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                },
+                {
+                  "BpId": 1446746,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                },
+                {
+                  "BpId": 1446747,
+                  "BpTime": 1385,
+                  "BPTimeStr": "23:05"
+                },
+                {
+                  "BpId": 560586,
+                  "BpTime": 1390,
+                  "BPTimeStr": "23:10"
+                },
+                {
+                  "BpId": 1527789,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                },
+                {
+                  "BpId": 560587,
+                  "BpTime": 1400,
+                  "BPTimeStr": "23:20"
+                },
+                {
+                  "BpId": 781019,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                },
+                {
+                  "BpId": 560590,
+                  "BpTime": 1415,
+                  "BPTimeStr": "23:35"
+                },
+                {
+                  "BpId": 1446741,
+                  "BpTime": 1420,
+                  "BPTimeStr": "23:40"
+                },
+                {
+                  "BpId": 560603,
+                  "BpTime": 1425,
+                  "BPTimeStr": "23:45"
+                },
+                {
+                  "BpId": 560604,
+                  "BpTime": 1430,
+                  "BPTimeStr": "23:50"
+                },
+                {
+                  "BpId": 560605,
+                  "BpTime": 1435,
+                  "BPTimeStr": "23:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 813440,
+                  "BpTime": 405,
+                  "BPTimeStr": "06:45"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:45:00 AM",
+              "BsTp": "Non A/C Seater/Sleeper (2+1)",
+              "DepTime": "3/31/2017 10:15:00 PM",
+              "FrLst": [
+                777,
+                999
+              ],
+              "MinFare": 777,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 30,
+              "WnSt": 20,
+              "OpId": 6414,
+              "RtId": 9033594,
+              "Tvs": "National Travels CHN",
+              "Rtg": {
+                "totRt": 3.7,
+                "Rt": {
+                  "Ct": "56"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "11",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 9033594,
+                    "CampaignCode": "ALLBUS_Pf94173f1",
+                    "CampaignDesc": "Get 5.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 3/1/2017 - 3/31/2017\",\"Minimum ticket fare : Rs.300.0\",\"Maximum discount limit : Rs.250.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 5,
+                    "Discount": 38.85,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 405,
+              "DepTmMin": 1335,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491009300000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490978700000+0530)\\/\"",
+              "lp": "ind/logo/6414.png",
+              "ImageGalleryId": 559,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:24:20:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.58663711726249",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 550,
+              "serviceId": 0,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 539272,
+                  "BpTime": 1265,
+                  "BPTimeStr": "21:05"
+                },
+                {
+                  "BpId": 828662,
+                  "BpTime": 1265,
+                  "BPTimeStr": "21:05"
+                },
+                {
+                  "BpId": 539143,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 539144,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 539145,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                }
+              ],
+              "DPLst": [],
+              "ArivalTime": "4/1/2017 6:15:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 9:05:00 PM",
+              "FrLst": [
+                900
+              ],
+              "MinFare": 900,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 25,
+              "WnSt": 15,
+              "OpId": 6087,
+              "RtId": 8331447,
+              "Tvs": "Mettur  Super Services",
+              "Rtg": {
+                "totRt": 4.7,
+                "Rt": {
+                  "Ct": "4"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 8331447,
+                    "CampaignCode": "ALLBUS_P796d6859",
+                    "CampaignDesc": "Get 10.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 3/2/2017 - 4/2/2017\",\"Minimum ticket fare : Rs.300.0\",\"Maximum discount limit : Rs.800.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 10,
+                    "Discount": 90,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 375,
+              "DepTmMin": 1265,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491007500000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490974500000+0530)\\/\"",
+              "lp": "ind/logo/6087.png",
+              "ImageGalleryId": 553,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:6:100:0;6:24:30:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.50308690636241",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 480,
+              "serviceId": 608,
+              "serviceName": "Chennai - Coimbatore",
+              "vt": "bus",
+              "Ament": [
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1669489,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1669468,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1669450,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1564218,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1564219,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1564220,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1564221,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1564277,
+                  "BpTime": 1470,
+                  "BPTimeStr": "00:30 (01-Apr)"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1564510,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 10:00:00 PM",
+              "FrLst": [
+                1700
+              ],
+              "MinFare": 1700,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 34,
+              "WnSt": 22,
+              "OpId": 3804,
+              "RtId": 9057117,
+              "Tvs": "Orange Tours And Travels",
+              "Rtg": {
+                "totRt": 3.4,
+                "Rt": {
+                  "Ct": "19"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1320,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490977800000+0530)\\/\"",
+              "lp": "ind/logo/3804.png",
+              "ImageGalleryId": 221,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.7561884129716",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 480,
+              "serviceId": 1900,
+              "serviceName": "CHENNAI-MMDA COLONY TO COIMBATORE : 12.30 P.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1588840,
+                  "BpTime": 750,
+                  "BPTimeStr": "12:30"
+                },
+                {
+                  "BpId": 1597511,
+                  "BpTime": 765,
+                  "BPTimeStr": "12:45"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 810,
+                  "BPTimeStr": "13:30"
+                },
+                {
+                  "BpId": 1689822,
+                  "BpTime": 820,
+                  "BPTimeStr": "13:40"
+                },
+                {
+                  "BpId": 1689823,
+                  "BpTime": 825,
+                  "BPTimeStr": "13:45"
+                },
+                {
+                  "BpId": 1495453,
+                  "BpTime": 835,
+                  "BPTimeStr": "13:55"
+                },
+                {
+                  "BpId": 1691053,
+                  "BpTime": 840,
+                  "BPTimeStr": "14:00"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 855,
+                  "BPTimeStr": "14:15"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 49713,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                }
+              ],
+              "ArivalTime": "3/31/2017 8:30:00 PM",
+              "BsTp": "Mercedes Multi-Axle Semi-sleeper (2+2)",
+              "DepTime": "3/31/2017 12:30:00 PM",
+              "FrLst": [
+                648
+              ],
+              "MinFare": 648,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 46,
+              "WnSt": 22,
+              "OpId": 102,
+              "RtId": 9062299,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 4,
+                "Rt": {
+                  "Ct": "15"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "2",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "AfterNoon",
+              "ArTmMin": 1230,
+              "DepTmMin": 750,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1490972400000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490943600000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.1948736437065",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 480,
+              "serviceId": 2106,
+              "serviceName": "CHENNAI-MMDA COLONY TO COIMBATORE : 11.00 A.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1588840,
+                  "BpTime": 660,
+                  "BPTimeStr": "11:00"
+                },
+                {
+                  "BpId": 1597511,
+                  "BpTime": 675,
+                  "BPTimeStr": "11:15"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 720,
+                  "BPTimeStr": "12:00"
+                },
+                {
+                  "BpId": 1689822,
+                  "BpTime": 730,
+                  "BPTimeStr": "12:10"
+                },
+                {
+                  "BpId": 1689823,
+                  "BpTime": 735,
+                  "BPTimeStr": "12:15"
+                },
+                {
+                  "BpId": 1495453,
+                  "BpTime": 745,
+                  "BPTimeStr": "12:25"
+                },
+                {
+                  "BpId": 1691053,
+                  "BpTime": 750,
+                  "BPTimeStr": "12:30"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 765,
+                  "BPTimeStr": "12:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1527743,
+                  "BpTime": 1140,
+                  "BPTimeStr": "19:00"
+                }
+              ],
+              "ArivalTime": "3/31/2017 7:00:00 PM",
+              "BsTp": "Mercedes Benz A/C Sleeper(2+1)",
+              "DepTime": "3/31/2017 11:00:00 AM",
+              "FrLst": [
+                756
+              ],
+              "MinFare": 756,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 33,
+              "WnSt": 22,
+              "OpId": 102,
+              "RtId": 9063986,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 1.8,
+                "Rt": {
+                  "Ct": "15"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "5",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Morning",
+              "ArTmMin": 1140,
+              "DepTmMin": 660,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1490967000000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490938200000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": 129,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:12:100:0;12:24:50:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.43402547471537",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 510,
+              "serviceId": 63040,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1292952,
+                  "BpTime": 1200,
+                  "BPTimeStr": "20:00"
+                },
+                {
+                  "BpId": 1292953,
+                  "BpTime": 1215,
+                  "BPTimeStr": "20:15"
+                },
+                {
+                  "BpId": 1292954,
+                  "BpTime": 1225,
+                  "BPTimeStr": "20:25"
+                },
+                {
+                  "BpId": 1292956,
+                  "BpTime": 1235,
+                  "BPTimeStr": "20:35"
+                },
+                {
+                  "BpId": 1292957,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 1292958,
+                  "BpTime": 1250,
+                  "BPTimeStr": "20:50"
+                },
+                {
+                  "BpId": 1292959,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 1292960,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1292961,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 1391418,
+                  "BpTime": 1295,
+                  "BPTimeStr": "21:35"
+                },
+                {
+                  "BpId": 1292963,
+                  "BpTime": 1300,
+                  "BPTimeStr": "21:40"
+                },
+                {
+                  "BpId": 1292964,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1292965,
+                  "BpTime": 1310,
+                  "BPTimeStr": "21:50"
+                },
+                {
+                  "BpId": 1292962,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 1292966,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1292967,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 1298330,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1620881,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1292971,
+                  "BpTime": 270,
+                  "BPTimeStr": "04:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:30:00 AM",
+              "BsTp": "Non A/C Seater Push Back (2+2)",
+              "DepTime": "3/31/2017 8:00:00 PM",
+              "FrLst": [
+                575
+              ],
+              "MinFare": 575,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 34,
+              "WnSt": 14,
+              "OpId": 11012,
+              "RtId": 9072211,
+              "Tvs": "Bharath Tour and Travels",
+              "Rtg": {
+                "totRt": 3.9,
+                "Rt": {
+                  "Ct": "13"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 270,
+              "DepTmMin": 1200,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491001200000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490970600000+0530)\\/\"",
+              "lp": "ind/logo/11012.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:12:100:0;12:24:50:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "3.55290131682389",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 495,
+              "serviceId": 51993,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [
+                4,
+                5,
+                7,
+                8,
+                9,
+                19,
+                22,
+                24,
+                27,
+                29
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1292952,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1292953,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 1292954,
+                  "BpTime": 1270,
+                  "BPTimeStr": "21:10"
+                },
+                {
+                  "BpId": 1292956,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1292957,
+                  "BpTime": 1285,
+                  "BPTimeStr": "21:25"
+                },
+                {
+                  "BpId": 1292958,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 1292959,
+                  "BpTime": 1300,
+                  "BPTimeStr": "21:40"
+                },
+                {
+                  "BpId": 1292960,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 1292961,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 1391418,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 1292963,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1292964,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1292965,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1292962,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1292966,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1292967,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1298330,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1620881,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1292971,
+                  "BpTime": 285,
+                  "BPTimeStr": "04:45"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:45:00 AM",
+              "BsTp": "A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 8:30:00 PM",
+              "FrLst": [
+                649
+              ],
+              "MinFare": 649,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 26,
+              "WnSt": 12,
+              "OpId": 11012,
+              "RtId": 8679964,
+              "Tvs": "Bharath Tour and Travels",
+              "Rtg": {
+                "totRt": 4.2,
+                "Rt": {
+                  "Ct": "55"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 285,
+              "DepTmMin": 1230,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491002100000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490972400000+0530)\\/\"",
+              "lp": "ind/logo/11012.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:4:100:0;4:8:50:0;8:12:25:0;12:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.25985049114871",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 475,
+              "serviceId": 0,
+              "serviceName": "Chennai To Palladam  Non A/C",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1569472,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1569473,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1569468,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1569474,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 1569475,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                },
+                {
+                  "BpId": 1569469,
+                  "BpTime": 1385,
+                  "BPTimeStr": "23:05"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1569491,
+                  "BpTime": 340,
+                  "BPTimeStr": "05:40"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:40:00 AM",
+              "BsTp": "Non A/C Semisleeper (2+2)",
+              "DepTime": "3/31/2017 9:45:00 PM",
+              "FrLst": [
+                700
+              ],
+              "MinFare": 700,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 27,
+              "WnSt": 13,
+              "OpId": 15470,
+              "RtId": 9397892,
+              "Tvs": "PSK Travels",
+              "Rtg": {
+                "totRt": 3.4,
+                "Rt": {
+                  "Ct": "6"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 340,
+              "DepTmMin": 1305,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491005400000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490976900000+0530)\\/\"",
+              "lp": "ind/logo/15470.png",
+              "ImageGalleryId": -1,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:12:100:0;12:24:50:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.1866470501627",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 545,
+              "serviceId": 38186,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 688290,
+                  "BpTime": 1165,
+                  "BPTimeStr": "19:25"
+                },
+                {
+                  "BpId": 688292,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1020537,
+                  "BpTime": 1240,
+                  "BPTimeStr": "20:40"
+                },
+                {
+                  "BpId": 975163,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 1020536,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 1020535,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 721186,
+                  "BpTime": 270,
+                  "BPTimeStr": "04:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:30:00 AM",
+              "BsTp": "Non A/C Seater/Sleeper (2+1)",
+              "DepTime": "3/31/2017 7:25:00 PM",
+              "FrLst": [
+                666,
+                800
+              ],
+              "MinFare": 666,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 40,
+              "WnSt": 25,
+              "OpId": 7339,
+              "RtId": 8704446,
+              "Tvs": "AVS  Travels",
+              "Rtg": {
+                "totRt": 3.2,
+                "Rt": {
+                  "Ct": "4"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 270,
+              "DepTmMin": 1165,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491001200000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490968500000+0530)\\/\"",
+              "lp": "ind/logo/7339.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;6:12:50:0;12:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "3.01242895691894",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 435,
+              "serviceId": 1,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [
+                5,
+                7,
+                9,
+                10,
+                22,
+                23,
+                24,
+                27,
+                31,
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1672477,
+                  "BpTime": 1185,
+                  "BPTimeStr": "19:45"
+                },
+                {
+                  "BpId": 1661363,
+                  "BpTime": 1200,
+                  "BPTimeStr": "20:00"
+                },
+                {
+                  "BpId": 1661368,
+                  "BpTime": 1210,
+                  "BPTimeStr": "20:10"
+                },
+                {
+                  "BpId": 1661378,
+                  "BpTime": 1215,
+                  "BPTimeStr": "20:15"
+                },
+                {
+                  "BpId": 1672640,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1672678,
+                  "BpTime": 1240,
+                  "BPTimeStr": "20:40"
+                },
+                {
+                  "BpId": 1672718,
+                  "BpTime": 1250,
+                  "BPTimeStr": "20:50"
+                },
+                {
+                  "BpId": 1672758,
+                  "BpTime": 1280,
+                  "BPTimeStr": "21:20"
+                },
+                {
+                  "BpId": 1672803,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1661404,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1672886,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1672925,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1672957,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1661423,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1673014,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1673037,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1673058,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 1673074,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                },
+                {
+                  "BpId": 1673100,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1661457,
+                  "BpTime": 300,
+                  "BPTimeStr": "05:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 9:45:00 PM",
+              "FrLst": [
+                850
+              ],
+              "MinFare": 850,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 24,
+              "WnSt": 17,
+              "OpId": 15825,
+              "RtId": 9528373,
+              "Tvs": "KRC Travels",
+              "Rtg": {
+                "totRt": 4.3,
+                "Rt": {
+                  "Ct": "39"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 9528373,
+                    "CampaignCode": "ALLBUS_Pf4db2e9",
+                    "CampaignDesc": "Get 5.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 2/22/2017 - 4/1/2017\",\"Minimum ticket fare : Rs.100.0\",\"Maximum discount limit : Rs.300.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 5,
+                    "Discount": 42.5,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 300,
+              "DepTmMin": 1305,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491003000000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490976900000+0530)\\/\"",
+              "lp": "ind/logo/15825.png",
+              "ImageGalleryId": -1,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:2:100:0;0:4:100:0;4:12:100:0;12:24:25:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "0.80327868852459",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 450,
+              "serviceId": 82,
+              "serviceName": "KalaMurthy Travels",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1463916,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1463917,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 1044925,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1044930,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1463918,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1187777,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1463919,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1044932,
+                  "BpTime": 1390,
+                  "BPTimeStr": "23:10"
+                },
+                {
+                  "BpId": 1326973,
+                  "BpTime": 1415,
+                  "BPTimeStr": "23:35"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1191316,
+                  "BpTime": 330,
+                  "BPTimeStr": "05:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:30:00 AM",
+              "BsTp": "A/C HITECH (2+2)",
+              "DepTime": "3/31/2017 10:00:00 PM",
+              "FrLst": [
+                1399
+              ],
+              "MinFare": 1399,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 35,
+              "WnSt": 18,
+              "OpId": 9530,
+              "RtId": 8711885,
+              "Tvs": "Kalamurthy Travels",
+              "Rtg": {
+                "totRt": -1,
+                "Rt": {
+                  "Ct": ""
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "13",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 8711885,
+                    "CampaignCode": "ALLBUS_P51fc9ca9",
+                    "CampaignDesc": "Get 5.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 3/2/2017 - 4/2/2017\",\"Minimum ticket fare : Rs.200.0\",\"Maximum discount limit : Rs.200.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 5,
+                    "Discount": 69.95,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 330,
+              "DepTmMin": 1320,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491004800000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490977800000+0530)\\/\"",
+              "lp": "ind/logo/9530.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:20:0;24:168:15:0;168:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.73990892658162",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 510,
+              "serviceId": 3123,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1452246,
+                  "BpTime": 1170,
+                  "BPTimeStr": "19:30"
+                },
+                {
+                  "BpId": 159607,
+                  "BpTime": 1200,
+                  "BPTimeStr": "20:00"
+                },
+                {
+                  "BpId": 1452231,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 1669437,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1452232,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 187305,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 202291,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 385456,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1161511,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 202292,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 188209,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 818696,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:15:00 AM",
+              "BsTp": "Non A/C Seater/Sleeper (2+1)",
+              "DepTime": "3/31/2017 9:45:00 PM",
+              "FrLst": [
+                680,
+                780
+              ],
+              "MinFare": 680,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 43,
+              "WnSt": 28,
+              "OpId": 22,
+              "RtId": 8019877,
+              "Tvs": "SRS Travels",
+              "Rtg": {
+                "totRt": 3.2,
+                "Rt": {
+                  "Ct": "40"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "11",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 375,
+              "DepTmMin": 1305,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491007500000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490976900000+0530)\\/\"",
+              "lp": "ind/logo/22.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:25:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "3.19748884043318",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 490,
+              "serviceId": 166,
+              "serviceName": "Chennai,Perumanallur,Tirupur,Palladam,Udumalaipet,Pollachi",
+              "vt": "bus",
+              "Ament": [
+                1,
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                12,
+                22,
+                23,
+                24
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 547755,
+                  "BpTime": 1250,
+                  "BPTimeStr": "20:50"
+                },
+                {
+                  "BpId": 547759,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 547741,
+                  "BpTime": 1280,
+                  "BPTimeStr": "21:20"
+                },
+                {
+                  "BpId": 547743,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 573876,
+                  "BpTime": 1295,
+                  "BPTimeStr": "21:35"
+                },
+                {
+                  "BpId": 547744,
+                  "BpTime": 1300,
+                  "BPTimeStr": "21:40"
+                },
+                {
+                  "BpId": 547761,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 547745,
+                  "BpTime": 1310,
+                  "BPTimeStr": "21:50"
+                },
+                {
+                  "BpId": 547746,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 800416,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1161344,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 547753,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 547749,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 547752,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 547751,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 547750,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                },
+                {
+                  "BpId": 1264548,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                },
+                {
+                  "BpId": 1474517,
+                  "BpTime": 1435,
+                  "BPTimeStr": "23:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 531343,
+                  "BpTime": 300,
+                  "BPTimeStr": "05:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 8:50:00 PM",
+              "FrLst": [
+                800
+              ],
+              "MinFare": 800,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 14,
+              "WnSt": 7,
+              "OpId": 6003,
+              "RtId": 9192002,
+              "Tvs": "RKG Travels",
+              "Rtg": {
+                "totRt": 4.5,
+                "Rt": {
+                  "Ct": "43"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 300,
+              "DepTmMin": 1250,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491003000000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490973600000+0530)\\/\"",
+              "lp": "ind/logo/6003.png",
+              "ImageGalleryId": -1,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:25:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "3.4968624436514",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 470,
+              "serviceId": 168,
+              "serviceName": "Chennai,Bhavani,Perumanallur,Tirupur,Palladam,Udumalaipet,Pollachi",
+              "vt": "bus",
+              "Ament": [
+                4,
+                5,
+                7,
+                8,
+                9,
+                10,
+                12,
+                22,
+                23,
+                24
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 547755,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 782935,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 782936,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 547746,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                },
+                {
+                  "BpId": 800416,
+                  "BpTime": 1400,
+                  "BPTimeStr": "23:20"
+                },
+                {
+                  "BpId": 1011183,
+                  "BpTime": 1405,
+                  "BPTimeStr": "23:25"
+                },
+                {
+                  "BpId": 1161344,
+                  "BpTime": 1405,
+                  "BPTimeStr": "23:25"
+                },
+                {
+                  "BpId": 547753,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                },
+                {
+                  "BpId": 547749,
+                  "BpTime": 1415,
+                  "BPTimeStr": "23:35"
+                },
+                {
+                  "BpId": 547752,
+                  "BpTime": 1420,
+                  "BPTimeStr": "23:40"
+                },
+                {
+                  "BpId": 547751,
+                  "BpTime": 1425,
+                  "BPTimeStr": "23:45"
+                },
+                {
+                  "BpId": 547750,
+                  "BpTime": 1430,
+                  "BPTimeStr": "23:50"
+                },
+                {
+                  "BpId": 1264548,
+                  "BpTime": 1435,
+                  "BPTimeStr": "23:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 531343,
+                  "BpTime": 330,
+                  "BPTimeStr": "05:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 10:10:00 PM",
+              "FrLst": [
+                800
+              ],
+              "MinFare": 800,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 13,
+              "WnSt": 8,
+              "OpId": 6003,
+              "RtId": 9192626,
+              "Tvs": "RKG Travels",
+              "Rtg": {
+                "totRt": 4.4,
+                "Rt": {
+                  "Ct": "50"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1330,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490978400000+0530)\\/\"",
+              "lp": "ind/logo/6003.png",
+              "ImageGalleryId": -1,
+              "IsPC": false,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.51796661383288",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 540,
+              "serviceId": 2162,
+              "serviceName": "CHENNAI-KOYAMBEDU TO POLLACHI : 8.15 P.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 77834,
+                  "BpTime": 1215,
+                  "BPTimeStr": "20:15"
+                },
+                {
+                  "BpId": 1588840,
+                  "BpTime": 1215,
+                  "BPTimeStr": "20:15"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 1285,
+                  "BPTimeStr": "21:25"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 49713,
+                  "BpTime": 315,
+                  "BPTimeStr": "05:15"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:15:00 AM",
+              "BsTp": "Multi Axle A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 8:15:00 PM",
+              "FrLst": [
+                855
+              ],
+              "MinFare": 855,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 33,
+              "WnSt": 22,
+              "OpId": 102,
+              "RtId": 9215990,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 3.6,
+                "Rt": {
+                  "Ct": "20"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 315,
+              "DepTmMin": 1215,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491003900000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490971500000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": 596,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.30652329456669",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 525,
+              "serviceId": 2169,
+              "serviceName": "CHENNAI-KOYAMBEDU TO TIRUPUR : 9.00 P.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 77834,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 49713,
+                  "BpTime": 345,
+                  "BPTimeStr": "05:45"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:45:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 9:00:00 PM",
+              "FrLst": [
+                783
+              ],
+              "MinFare": 783,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 25,
+              "WnSt": 17,
+              "OpId": 102,
+              "RtId": 9215991,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 2.4,
+                "Rt": {
+                  "Ct": "22"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 345,
+              "DepTmMin": 1260,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491005700000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490974200000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": 594,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.33391465752127",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 570,
+              "serviceId": 2163,
+              "serviceName": "CHENNAI-KOYAMBEDU TO POLLACHI : 9.00 P.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 77834,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 49713,
+                  "BpTime": 390,
+                  "BPTimeStr": "06:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:30:00 AM",
+              "BsTp": "Non A/C Sleeper  (2+1)",
+              "DepTime": "3/31/2017 9:00:00 PM",
+              "FrLst": [
+                666
+              ],
+              "MinFare": 666,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 27,
+              "WnSt": 18,
+              "OpId": 102,
+              "RtId": 9215992,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 3,
+                "Rt": {
+                  "Ct": "16"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "12",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 390,
+              "DepTmMin": 1260,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491008400000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490974200000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": 601,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:2:100:0;2:6:50:0;6:12:25:0;12:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.13809029663826",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 540,
+              "serviceId": 61,
+              "serviceName": " CHENNAI-COIMBATORE",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1061029,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1445694,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 1061034,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 830129,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 562796,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 562797,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 562798,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 562799,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1445696,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1525929,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 562801,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 562803,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                },
+                {
+                  "BpId": 562804,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                },
+                {
+                  "BpId": 1009954,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 543330,
+                  "BpTime": 330,
+                  "BPTimeStr": "05:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:30:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 8:30:00 PM",
+              "FrLst": [
+                900
+              ],
+              "MinFare": 900,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 23,
+              "WnSt": 15,
+              "OpId": 5276,
+              "RtId": 8075739,
+              "Tvs": "Texcity Services",
+              "Rtg": {
+                "totRt": 2.5,
+                "Rt": {
+                  "Ct": "5"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 8075739,
+                    "CampaignCode": "ALLBUS_P69c52f4c",
+                    "CampaignDesc": "Get 5.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 3/3/2017 - 4/3/2017\",\"Minimum ticket fare : Rs.200.0\",\"Maximum discount limit : Rs.50.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 5,
+                    "Discount": 45,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 330,
+              "DepTmMin": 1230,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491004800000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490972400000+0530)\\/\"",
+              "lp": "ind/logo/5276.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.39607771379911",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 525,
+              "serviceId": 1386,
+              "serviceName": "CHENNAI-KOYAMBEDU TO TIRUPUR : 9.15 P.M",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 77834,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 77845,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1689822,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1689823,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1495453,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1691053,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1133719,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 49713,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "Non A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 9:15:00 PM",
+              "FrLst": [
+                585
+              ],
+              "MinFare": 585,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 31,
+              "WnSt": 15,
+              "OpId": 102,
+              "RtId": 4467275,
+              "Tvs": "K.P.N",
+              "Rtg": {
+                "totRt": 2.5,
+                "Rt": {
+                  "Ct": "32"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "14",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1275,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490975100000+0530)\\/\"",
+              "lp": "ind/logo/102.png",
+              "ImageGalleryId": 599,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:3:100:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "2.07189065181065",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 480,
+              "serviceId": 37,
+              "serviceName": "Chennai - Pollachi 08:30PM (B)",
+              "vt": "bus",
+              "Ament": [
+                5,
+                7,
+                9
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 237012,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1574074,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 237013,
+                  "BpTime": 1275,
+                  "BPTimeStr": "21:15"
+                },
+                {
+                  "BpId": 237014,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 834105,
+                  "BpTime": 1300,
+                  "BPTimeStr": "21:40"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1081001,
+                  "BpTime": 270,
+                  "BPTimeStr": "04:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:30:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 8:30:00 PM",
+              "FrLst": [
+                846
+              ],
+              "MinFare": 846,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 23,
+              "WnSt": 14,
+              "OpId": 3944,
+              "RtId": 4472865,
+              "Tvs": "Hindusthan  Travels",
+              "Rtg": {
+                "totRt": 4.3,
+                "Rt": {
+                  "Ct": "21"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 270,
+              "DepTmMin": 1230,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491001200000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490972400000+0530)\\/\"",
+              "lp": "ind/logo/3944.png",
+              "ImageGalleryId": 582,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:12:100:0;12:24:50:0;24:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "4.67749887644989",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 495,
+              "serviceId": 66688,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [
+                1,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                12,
+                21,
+                22,
+                23,
+                24,
+                27,
+                30,
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1292952,
+                  "BpTime": 1215,
+                  "BPTimeStr": "20:15"
+                },
+                {
+                  "BpId": 1292953,
+                  "BpTime": 1230,
+                  "BPTimeStr": "20:30"
+                },
+                {
+                  "BpId": 1292954,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 1292956,
+                  "BpTime": 1260,
+                  "BPTimeStr": "21:00"
+                },
+                {
+                  "BpId": 1292957,
+                  "BpTime": 1270,
+                  "BPTimeStr": "21:10"
+                },
+                {
+                  "BpId": 1292958,
+                  "BpTime": 1280,
+                  "BPTimeStr": "21:20"
+                },
+                {
+                  "BpId": 1292959,
+                  "BpTime": 1290,
+                  "BPTimeStr": "21:30"
+                },
+                {
+                  "BpId": 1292960,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 1292961,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 1391418,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 1292963,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 1292964,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 1292965,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 1292962,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1292966,
+                  "BpTime": 1355,
+                  "BPTimeStr": "22:35"
+                },
+                {
+                  "BpId": 1292967,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1298330,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1620881,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1292971,
+                  "BpTime": 270,
+                  "BPTimeStr": "04:30"
+                }
+              ],
+              "ArivalTime": "4/1/2017 4:30:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 8:15:00 PM",
+              "FrLst": [
+                800
+              ],
+              "MinFare": 800,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 20,
+              "WnSt": 12,
+              "OpId": 11012,
+              "RtId": 9171658,
+              "Tvs": "Bharath Tour and Travels",
+              "Rtg": {
+                "totRt": 4.6,
+                "Rt": {
+                  "Ct": "65"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 270,
+              "DepTmMin": 1215,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491001200000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490971500000+0530)\\/\"",
+              "lp": "ind/logo/11012.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": true,
+                "IsSleeper": false
+              },
+              "CancellationPolicy": "0:2:100:0;2:3:50:0;3:24:25:0;24:-1:15:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.42052904499799",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 525,
+              "serviceId": 0,
+              "serviceName": "V-118 Chennai Tirupur-09:45PM Volvo A/C ",
+              "vt": "bus",
+              "Ament": [
+                5,
+                8,
+                9
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1679239,
+                  "BpTime": 1245,
+                  "BPTimeStr": "20:45"
+                },
+                {
+                  "BpId": 364114,
+                  "BpTime": 1305,
+                  "BPTimeStr": "21:45"
+                },
+                {
+                  "BpId": 364115,
+                  "BpTime": 1315,
+                  "BPTimeStr": "21:55"
+                },
+                {
+                  "BpId": 412411,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 364116,
+                  "BpTime": 1325,
+                  "BPTimeStr": "22:05"
+                },
+                {
+                  "BpId": 364117,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 364118,
+                  "BpTime": 1335,
+                  "BPTimeStr": "22:15"
+                },
+                {
+                  "BpId": 364119,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 364120,
+                  "BpTime": 1345,
+                  "BPTimeStr": "22:25"
+                },
+                {
+                  "BpId": 364121,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 364122,
+                  "BpTime": 1365,
+                  "BPTimeStr": "22:45"
+                },
+                {
+                  "BpId": 1606270,
+                  "BpTime": 1375,
+                  "BPTimeStr": "22:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 137260,
+                  "BpTime": 5,
+                  "BPTimeStr": "00:05"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:30:00 AM",
+              "BsTp": "Volvo A/C Semi Sleeper (2+2)",
+              "DepTime": "3/31/2017 9:45:00 PM",
+              "FrLst": [
+                680
+              ],
+              "MinFare": 680,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 40,
+              "WnSt": 19,
+              "OpId": 3384,
+              "RtId": 4787495,
+              "Tvs": "SRM Transports",
+              "Rtg": {
+                "totRt": 3,
+                "Rt": {
+                  "Ct": "23"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "0",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 390,
+              "DepTmMin": 1305,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491008400000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490976900000+0530)\\/\"",
+              "lp": "ind/logo/3384.png",
+              "ImageGalleryId": -1,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": true,
+                "IsNonAc": false,
+                "IsSeater": false,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:4:100:0;4:12:50:0;12:24:20:0;24:168:15:0;168:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": true,
+              "isOfferBus": false,
+              "timeZone": "",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "2.76853164110161",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 420,
+              "serviceId": 74,
+              "serviceName": "CHENNAI - COIMBATORE A/C SLEPPER ",
+              "vt": "bus",
+              "Ament": [
+                5,
+                7,
+                19
+              ],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1446739,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                },
+                {
+                  "BpId": 1357706,
+                  "BpTime": 1395,
+                  "BPTimeStr": "23:15"
+                },
+                {
+                  "BpId": 1005661,
+                  "BpTime": 1425,
+                  "BPTimeStr": "23:45"
+                },
+                {
+                  "BpId": 1005662,
+                  "BpTime": 1435,
+                  "BPTimeStr": "23:55"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 813440,
+                  "BpTime": 360,
+                  "BPTimeStr": "06:00"
+                }
+              ],
+              "ArivalTime": "4/1/2017 6:00:00 AM",
+              "BsTp": "A/C Sleeper (2+1)",
+              "DepTime": "3/31/2017 11:00:00 PM",
+              "FrLst": [
+                888
+              ],
+              "MinFare": 888,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 32,
+              "WnSt": 21,
+              "OpId": 6414,
+              "RtId": 8001121,
+              "Tvs": "National Travels CHN",
+              "Rtg": {
+                "totRt": 4.1,
+                "Rt": {
+                  "Ct": "52"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "10",
+              "Cmpg": {
+                "Vld": true,
+                "CmpgList": [
+                  {
+                    "RouteId": 8001121,
+                    "CampaignCode": "ALLBUS_Pf94173f1",
+                    "CampaignDesc": "Get 5.0% Extra OFF",
+                    "CampaignNote": "[\"Valid on : All days\",\"Validity : 3/1/2017 - 3/31/2017\",\"Minimum ticket fare : Rs.300.0\",\"Maximum discount limit : Rs.250.0\"]",
+                    "CampaignType": "PERCENT",
+                    "DiscountUnit": 5,
+                    "Discount": 44.4,
+                    "Msg": "VALID",
+                    "SpclIndicator": "DEFAULT",
+                    "DiscountedPrices": null,
+                    "OriginalPrices": null
+                  }
+                ]
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 360,
+              "DepTmMin": 1380,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491006600000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490981400000+0530)\\/\"",
+              "lp": "ind/logo/6414.png",
+              "ImageGalleryId": 557,
+              "IsPC": true,
+              "busTypeId": 0
+            },
+            {
+              "BusCategory": {
+                "IsAc": false,
+                "IsNonAc": true,
+                "IsSeater": true,
+                "IsSleeper": true
+              },
+              "CancellationPolicy": "0:12:100:0;12:24:50:0;24:72:25:0;72:-1:10:0",
+              "IsRTC": false,
+              "SourceId": 123,
+              "DestinationId": 235,
+              "SourceName": "Chennai",
+              "DestinationName": "Tirupur",
+              "IsSeatLayoutAvailable": true,
+              "MealType": false,
+              "isCabService": false,
+              "isLiveTrackingAvl": false,
+              "isOfferBus": false,
+              "timeZone": "UTC+05:30",
+              "ArrTimeZone": "",
+              "DepTimeZone": "",
+              "maxSeatsPerTransaction": 6,
+              "RbPrefCode": "1.58605376303427",
+              "IsBpDpSearch": false,
+              "IsBpDpReq": false,
+              "jDur": 465,
+              "serviceId": 265,
+              "serviceName": "",
+              "vt": "bus",
+              "Ament": [],
+              "IsDPA": false,
+              "MxDPC": 6,
+              "BPLst": [
+                {
+                  "BpId": 1591768,
+                  "BpTime": 1320,
+                  "BPTimeStr": "22:00"
+                },
+                {
+                  "BpId": 1488098,
+                  "BpTime": 1330,
+                  "BPTimeStr": "22:10"
+                },
+                {
+                  "BpId": 775457,
+                  "BpTime": 1340,
+                  "BPTimeStr": "22:20"
+                },
+                {
+                  "BpId": 757263,
+                  "BpTime": 1350,
+                  "BPTimeStr": "22:30"
+                },
+                {
+                  "BpId": 1488099,
+                  "BpTime": 1360,
+                  "BPTimeStr": "22:40"
+                },
+                {
+                  "BpId": 1488100,
+                  "BpTime": 1370,
+                  "BPTimeStr": "22:50"
+                },
+                {
+                  "BpId": 757265,
+                  "BpTime": 1380,
+                  "BPTimeStr": "23:00"
+                },
+                {
+                  "BpId": 1488102,
+                  "BpTime": 1390,
+                  "BPTimeStr": "23:10"
+                },
+                {
+                  "BpId": 1488109,
+                  "BpTime": 1400,
+                  "BPTimeStr": "23:20"
+                },
+                {
+                  "BpId": 1488110,
+                  "BpTime": 1410,
+                  "BPTimeStr": "23:30"
+                },
+                {
+                  "BpId": 1067012,
+                  "BpTime": 1420,
+                  "BPTimeStr": "23:40"
+                },
+                {
+                  "BpId": 775297,
+                  "BpTime": 1430,
+                  "BPTimeStr": "23:50"
+                }
+              ],
+              "DPLst": [
+                {
+                  "BpId": 1488104,
+                  "BpTime": 345,
+                  "BPTimeStr": "05:45"
+                }
+              ],
+              "ArivalTime": "4/1/2017 5:45:00 AM",
+              "BsTp": "Non A/C Seater/Sleeper (2+1)",
+              "DepTime": "3/31/2017 10:00:00 PM",
+              "FrLst": [
+                850,
+                1100,
+                1200
+              ],
+              "MinFare": 850,
+              "IsAct": false,
+              "IsLRt": true,
+              "IsSO": false,
+              "IsSpF": false,
+              "IsMTE": true,
+              "NUSA": 0,
+              "NSA": 43,
+              "WnSt": 30,
+              "OpId": 8174,
+              "RtId": 9584453,
+              "Tvs": "Apple Bus",
+              "Rtg": {
+                "totRt": 4.6,
+                "Rt": {
+                  "Ct": "5"
+                }
+              },
+              "Tips": 0,
+              "Glry": false,
+              "Sort": "1",
+              "BsSt": "AVAILABLE",
+              "ActTm": null,
+              "AP": null,
+              "BsSvId": "11",
+              "Cmpg": {
+                "Vld": false,
+                "CmpgList": null
+              },
+              "CurrencyType": "INR",
+              "TimeOfDay": "Evening",
+              "ArTmMin": 345,
+              "DepTmMin": 1320,
+              "param42": {
+                "restStopList": [],
+                "boReqParm": [
+                  {
+                    "isBpDpSl": false,
+                    "isBpDpTb": false
+                  }
+                ],
+                "mandateFields": null,
+                "rgb": 0,
+                "priceDescriptor": null,
+                "LocationSearchParams": null,
+                "busImageCount": 0,
+                "zcf": null,
+                "sponsor": null
+              },
+              "ArrTimeUnixTimeStamp": "\"\\/Date(1491005700000+0530)\\/\"",
+              "DepTimeUnixTimeStamp": "\"\\/Date(1490977800000+0530)\\/\"",
+              "lp": "ind/logo/8174.png",
+              "ImageGalleryId": 686,
+              "IsPC": true,
+              "busTypeId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "BPFilter": [
+    {
+      "id": [
+        48237,
+        1669468
+      ],
+      "loc": null,
+      "bpName": "Central Railway Station"
+    },
+    {
+      "id": [
+        1669436,
+        547755,
+        1111980,
+        390739,
+        1169798,
+        1446739,
+        828662,
+        1669450,
+        1292952,
+        1569472,
+        688290,
+        1672803,
+        1463916,
+        1669437,
+        77834,
+        1061029,
+        237012,
+        364114,
+        1591768
+      ],
+      "loc": null,
+      "bpName": "Koyambedu"
+    },
+    {
+      "id": [
+        96511,
+        547746,
+        1111991,
+        394200,
+        1169805,
+        781019,
+        1564219,
+        77845,
+        1292961,
+        1569468,
+        688292,
+        1672886,
+        1044932,
+        187305,
+        562798,
+        237013,
+        364121,
+        1488102
+      ],
+      "loc": null,
+      "bpName": "Perungalathur"
+    },
+    {
+      "id": [
+        96513,
+        547749,
+        1111985,
+        1169800,
+        1564221,
+        1689822,
+        1569469,
+        1673014,
+        1525929,
+        364122
+      ],
+      "loc": null,
+      "bpName": "SRM University"
+    },
+    {
+      "id": [
+        96514,
+        1011183,
+        392160,
+        1573060,
+        1689823,
+        1292966,
+        1673037,
+        202292,
+        562803
+      ],
+      "loc": null,
+      "bpName": "Maraimalai Nagar"
+    },
+    {
+      "id": [
+        96515,
+        547751,
+        392162,
+        1567957,
+        560603,
+        1495453,
+        1292967,
+        1020536,
+        1673074,
+        562804,
+        1606270
+      ],
+      "loc": null,
+      "bpName": "MAHENDRA CITY"
+    },
+    {
+      "id": [
+        113148,
+        547750,
+        1606382,
+        1169788,
+        560605,
+        1133719,
+        1298330,
+        1673100,
+        1326973,
+        188209
+      ],
+      "loc": null,
+      "bpName": "Chengalpattu"
+    },
+    {
+      "id": [
+        547759,
+        1357018,
+        1446742,
+        1292953,
+        1463917,
+        1488098
+      ],
+      "loc": null,
+      "bpName": "Vadapalani"
+    },
+    {
+      "id": [
+        547741,
+        1111977,
+        1446743,
+        1292954,
+        1044925,
+        1445694,
+        364115,
+        775457
+      ],
+      "loc": null,
+      "bpName": "Ashok Pillar"
+    },
+    {
+      "id": [
+        547743,
+        1111995,
+        1292956,
+        1044930,
+        1061034,
+        412411,
+        757263
+      ],
+      "loc": null,
+      "bpName": "Guindy"
+    },
+    {
+      "id": [
+        573876,
+        1111988,
+        1446745,
+        1292957,
+        364116
+      ],
+      "loc": null,
+      "bpName": "Shanthi petrol bunk"
+    },
+    {
+      "id": [
+        547744,
+        1111984,
+        1446747,
+        1292958,
+        1463918,
+        830129,
+        364118,
+        1488100
+      ],
+      "loc": null,
+      "bpName": "Pallavaram"
+    },
+    {
+      "id": [
+        547761,
+        1112007,
+        560586,
+        1292959,
+        1187777,
+        562796,
+        364119,
+        757265
+      ],
+      "loc": null,
+      "bpName": "Chrompet"
+    },
+    {
+      "id": [
+        547745,
+        1112013,
+        390396,
+        390764,
+        1527789,
+        560587,
+        1292960,
+        1463919,
+        562797,
+        364120
+      ],
+      "loc": null,
+      "bpName": "Tambaram"
+    },
+    {
+      "id": [
+        800416,
+        392156,
+        1391418,
+        1292962,
+        1569474,
+        1020537,
+        1672925,
+        562799,
+        1488109
+      ],
+      "loc": null,
+      "bpName": "Vandalur"
+    },
+    {
+      "id": [
+        547753,
+        1606380,
+        1564220,
+        1292964,
+        1569475,
+        1661423,
+        562801,
+        237014,
+        1067012
+      ],
+      "loc": null,
+      "bpName": "Guduvancheri"
+    },
+    {
+      "id": [
+        1111999
+      ],
+      "loc": null,
+      "bpName": "Kasi Theatre"
+    },
+    {
+      "id": [
+        1112003,
+        392157,
+        1169809,
+        560590,
+        1672957,
+        385456,
+        1161344,
+        1445696,
+        1488110
+      ],
+      "loc": null,
+      "bpName": "Urappakkam"
+    },
+    {
+      "id": [
+        1234024
+      ],
+      "loc": null,
+      "bpName": "Chennai CMBT"
+    },
+    {
+      "id": [
+        1030043,
+        1567956,
+        1564218,
+        1597511,
+        1569473,
+        1661404,
+        1452232,
+        782936,
+        1574074
+      ],
+      "loc": null,
+      "bpName": "Porur"
+    },
+    {
+      "id": [
+        392159
+      ],
+      "loc": null,
+      "bpName": "Guduvanchery busstop"
+    },
+    {
+      "id": [
+        392158,
+        775297
+      ],
+      "loc": null,
+      "bpName": "SRM COLLEGE"
+    },
+    {
+      "id": [
+        392161,
+        1606381,
+        560604,
+        1691053,
+        1673058,
+        547752
+      ],
+      "loc": null,
+      "bpName": "Singaperumal koil"
+    },
+    {
+      "id": [
+        1236583
+      ],
+      "loc": null,
+      "bpName": "Ekkattuthangal"
+    },
+    {
+      "id": [
+        1446744
+      ],
+      "loc": null,
+      "bpName": "Alandur"
+    },
+    {
+      "id": [
+        1446746,
+        1488099
+      ],
+      "loc": null,
+      "bpName": "Meenambakam airport"
+    },
+    {
+      "id": [
+        1446741,
+        1292965
+      ],
+      "loc": null,
+      "bpName": "RMK College"
+    },
+    {
+      "id": [
+        539272
+      ],
+      "loc": null,
+      "bpName": "Vellore"
+    },
+    {
+      "id": [
+        539143,
+        1005661
+      ],
+      "loc": null,
+      "bpName": "Poonamallee"
+    },
+    {
+      "id": [
+        539144,
+        1005662
+      ],
+      "loc": null,
+      "bpName": "Sriperumbudur"
+    },
+    {
+      "id": [
+        539145
+      ],
+      "loc": null,
+      "bpName": "Kanchipuram"
+    },
+    {
+      "id": [
+        1669489,
+        1672758,
+        159607
+      ],
+      "loc": null,
+      "bpName": "T Nagar"
+    },
+    {
+      "id": [
+        1564277,
+        1474517
+      ],
+      "loc": null,
+      "bpName": "villupuram"
+    },
+    {
+      "id": [
+        1588840
+      ],
+      "loc": null,
+      "bpName": "100 FEET ROAD(MMDA COLONY KPN)"
+    },
+    {
+      "id": [
+        1292963
+      ],
+      "loc": null,
+      "bpName": "Chennai"
+    },
+    {
+      "id": [
+        1620881,
+        1264548
+      ],
+      "loc": null,
+      "bpName": "Melmaruvathur"
+    },
+    {
+      "id": [
+        975163,
+        834105
+      ],
+      "loc": null,
+      "bpName": "Kattankulathur"
+    },
+    {
+      "id": [
+        1020535,
+        1009954
+      ],
+      "loc": null,
+      "bpName": "Chengalpat Toll"
+    },
+    {
+      "id": [
+        1672477
+      ],
+      "loc": null,
+      "bpName": "Kovilambakkam"
+    },
+    {
+      "id": [
+        1661363
+      ],
+      "loc": null,
+      "bpName": "Medavakkam"
+    },
+    {
+      "id": [
+        1661368
+      ],
+      "loc": null,
+      "bpName": "Pallikarani"
+    },
+    {
+      "id": [
+        1661378,
+        1452231
+      ],
+      "loc": null,
+      "bpName": "Egmore"
+    },
+    {
+      "id": [
+        1672640
+      ],
+      "loc": null,
+      "bpName": "Velachery"
+    },
+    {
+      "id": [
+        1672678
+      ],
+      "loc": null,
+      "bpName": "Tharamani"
+    },
+    {
+      "id": [
+        1672718,
+        1452246,
+        1679239
+      ],
+      "loc": null,
+      "bpName": "Adyar"
+    },
+    {
+      "id": [
+        202291
+      ],
+      "loc": null,
+      "bpName": "VANDALLUR (PICKUP VAN -3)"
+    },
+    {
+      "id": [
+        1161511
+      ],
+      "loc": null,
+      "bpName": "Potheri"
+    },
+    {
+      "id": [
+        782935,
+        1357706
+      ],
+      "loc": null,
+      "bpName": "Maduravoyal"
+    },
+    {
+      "id": [
+        364117
+      ],
+      "loc": null,
+      "bpName": "Airport"
+    }
+  ],
+  "DPFilter": [
+    {
+      "id": [
+        48359,
+        1564510
+      ],
+      "loc": null,
+      "bpName": "Avinashi"
+    },
+    {
+      "id": [
+        531343,
+        813440,
+        49713,
+        1292971,
+        1661457,
+        818696,
+        1081001,
+        137260,
+        1488104
+      ],
+      "loc": null,
+      "bpName": "Tirupur"
+    },
+    {
+      "id": [
+        1112036
+      ],
+      "loc": null,
+      "bpName": "Tirupur Office"
+    },
+    {
+      "id": [
+        1169820
+      ],
+      "loc": null,
+      "bpName": "Thirupur Office"
+    },
+    {
+      "id": [
+        1527743
+      ],
+      "loc": null,
+      "bpName": "TIRUPUR(VAN PICKUP)"
+    },
+    {
+      "id": [
+        1569491
+      ],
+      "loc": null,
+      "bpName": "PSK Travels"
+    },
+    {
+      "id": [
+        721186
+      ],
+      "loc": null,
+      "bpName": "Pushpa Theatre"
+    },
+    {
+      "id": [
+        1191316
+      ],
+      "loc": null,
+      "bpName": "Avinashi "
+    },
+    {
+      "id": [
+        543330
+      ],
+      "loc": null,
+      "bpName": "Texcity Services"
+    }
+  ],
+  "Aminities": {
+    "1": "WIFI",
+    "8": "Movie",
+    "9": "Reading Light",
+    "6": "Snacks",
+    "7": "Charging Point",
+    "4": "Water Bottle",
+    "5": "Blankets",
+    "24": "Hammer (to break glass)",
+    "30": "Cup holder",
+    "21": "Soft drink",
+    "10": "Pillow",
+    "27": "Emergency Contact Number",
+    "22": "Emergency exit",
+    "23": "Fire Extinguisher",
+    "12": "Personal TV",
+    "31": "Music/MP3",
+    "29": "Central TV",
+    "19": "Track My Bus"
+  },
+  "travels": [
+    "Kallada Travels (Suresh Kallada)",
+    "RKG Travels",
+    "GMS Logistics India Pvt Ltd",
+    "Shri Baghyalakshmi Travels(SBLT)",
+    "PNK SRT    Travels",
+    "National Travels CHN",
+    "Mettur  Super Services",
+    "Orange Tours And Travels",
+    "K.P.N",
+    "Bharath Tour and Travels",
+    "PSK Travels",
+    "AVS  Travels",
+    "KRC Travels",
+    "Kalamurthy Travels",
+    "SRS Travels ",
+    "Texcity Services",
+    "Hindusthan  Travels",
+    "SRM Transports",
+    "Apple Bus"
+  ],
+  "BusTypes": [
+    "AC Sleeper",
+    "Non-AC Sleeper",
+    "AC Seater",
+    "Non-AC Seater",
+    "Cab"
+  ],
+  "DayTime": null,
+  "LossData": 4,
+  "BookingData": 2,
+  "sort": "BUSSCORE",
+  "BPLst": [
+    {
+      "id": 48237,
+      "bpName": "Central Railway Station",
+      "time": "11:30",
+      "vbpName": "Central"
+    },
+    {
+      "id": 1669436,
+      "bpName": "Koyambedu",
+      "time": "12:30",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 96511,
+      "bpName": "Perungalathur",
+      "time": "13:00",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 96513,
+      "bpName": "SRM University",
+      "time": "13:30",
+      "vbpName": "SRM University"
+    },
+    {
+      "id": 96514,
+      "bpName": "Maraimalai Nagar",
+      "time": "13:40",
+      "vbpName": "Maraimalai Nagar"
+    },
+    {
+      "id": 96515,
+      "bpName": "MAHENDRA CITY",
+      "time": "13:50",
+      "vbpName": "Mahendra City"
+    },
+    {
+      "id": 113148,
+      "bpName": "Chengalpattu",
+      "time": "14:00",
+      "vbpName": "Chenkalpattu"
+    },
+    {
+      "id": 547755,
+      "bpName": "Koyambedu",
+      "time": "20:30",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 547759,
+      "bpName": "Vadapalani",
+      "time": "21:00",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 547741,
+      "bpName": "Ashok Pillar",
+      "time": "21:10",
+      "vbpName": "AshokPillar"
+    },
+    {
+      "id": 547743,
+      "bpName": "Guindy",
+      "time": "21:20",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 573876,
+      "bpName": "Shanthi petrol bunk",
+      "time": "21:25",
+      "vbpName": "Shanthi Petrol Bunk "
+    },
+    {
+      "id": 547744,
+      "bpName": "Pallavaram",
+      "time": "21:30",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 547761,
+      "bpName": "Chrompet",
+      "time": "21:35",
+      "vbpName": "Chrompet"
+    },
+    {
+      "id": 547745,
+      "bpName": "Tambaram",
+      "time": "21:40",
+      "vbpName": "Tambaram"
+    },
+    {
+      "id": 547746,
+      "bpName": "Perungalathur",
+      "time": "22:10",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 800416,
+      "bpName": "Vandalur",
+      "time": "22:20",
+      "vbpName": "Vandalur"
+    },
+    {
+      "id": 547753,
+      "bpName": "Guduvancheri",
+      "time": "22:25",
+      "vbpName": "Guduvancherry"
+    },
+    {
+      "id": 547749,
+      "bpName": "SRM University",
+      "time": "22:30",
+      "vbpName": "SRM University"
+    },
+    {
+      "id": 1011183,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:35",
+      "vbpName": "Maraimalai Nagar"
+    },
+    {
+      "id": 547751,
+      "bpName": "MAHENDRA CITY",
+      "time": "22:40",
+      "vbpName": "Mahindra city"
+    },
+    {
+      "id": 547750,
+      "bpName": "Chengalpattu",
+      "time": "22:45",
+      "vbpName": "Chengalpattuiyappan Temple"
+    },
+    {
+      "id": 1111980,
+      "bpName": "Koyambedu",
+      "time": "21:15",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1357018,
+      "bpName": "Vadapalani",
+      "time": "21:20",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 1111977,
+      "bpName": "Ashok Pillar",
+      "time": "21:30",
+      "vbpName": "Ashok Pillar"
+    },
+    {
+      "id": 1111999,
+      "bpName": "Kasi Theatre",
+      "time": "21:35",
+      "vbpName": "Kasi Theatre"
+    },
+    {
+      "id": 1111995,
+      "bpName": "Guindy",
+      "time": "21:45",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 1111988,
+      "bpName": "Shanthi petrol bunk",
+      "time": "21:50",
+      "vbpName": "Shanthi Petrol Bunk"
+    },
+    {
+      "id": 1111984,
+      "bpName": "Pallavaram",
+      "time": "22:00",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 1112007,
+      "bpName": "Chrompet",
+      "time": "22:10",
+      "vbpName": "Chrompet"
+    },
+    {
+      "id": 1112013,
+      "bpName": "Tambaram",
+      "time": "22:20",
+      "vbpName": "Tambaram"
+    },
+    {
+      "id": 1111991,
+      "bpName": "Perungalathur",
+      "time": "22:30",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 1112003,
+      "bpName": "Urappakkam",
+      "time": "22:45",
+      "vbpName": "Urappakkam"
+    },
+    {
+      "id": 1111985,
+      "bpName": "SRM University",
+      "time": "22:55",
+      "vbpName": "SRM College"
+    },
+    {
+      "id": 1234024,
+      "bpName": "Chennai CMBT",
+      "time": "21:00",
+      "vbpName": "koyemedu omni busstand"
+    },
+    {
+      "id": 390739,
+      "bpName": "Koyambedu",
+      "time": "21:15",
+      "vbpName": "Koyambedu 9840900852"
+    },
+    {
+      "id": 1030043,
+      "bpName": "Porur",
+      "time": "21:35",
+      "vbpName": "Porur tollgate"
+    },
+    {
+      "id": 390396,
+      "bpName": "Tambaram",
+      "time": "21:55",
+      "vbpName": "Tambarampulliyamaram"
+    },
+    {
+      "id": 390764,
+      "bpName": "Tambaram",
+      "time": "22:05",
+      "vbpName": "Tambaram Hindu Misionhospital"
+    },
+    {
+      "id": 394200,
+      "bpName": "Perungalathur",
+      "time": "22:20",
+      "vbpName": "Perungalathur SBLT Office 9840920927"
+    },
+    {
+      "id": 392156,
+      "bpName": "Vandalur",
+      "time": "22:30",
+      "vbpName": "Vandalur Crescent Engcollege"
+    },
+    {
+      "id": 392157,
+      "bpName": "Urappakkam",
+      "time": "22:35",
+      "vbpName": "Urapakkam Bustand"
+    },
+    {
+      "id": 392159,
+      "bpName": "Guduvanchery busstop",
+      "time": "22:45",
+      "vbpName": "Guduvancherry Bus Stand"
+    },
+    {
+      "id": 392158,
+      "bpName": "SRM COLLEGE",
+      "time": "22:50",
+      "vbpName": "SRM Univercity Entrance"
+    },
+    {
+      "id": 392161,
+      "bpName": "Singaperumal koil",
+      "time": "23:00",
+      "vbpName": "Singaperumalkoil Bus Stand"
+    },
+    {
+      "id": 392160,
+      "bpName": "Maraimalai Nagar",
+      "time": "23:10",
+      "vbpName": "Maraimalai Nagar Bus Stand"
+    },
+    {
+      "id": 392162,
+      "bpName": "MAHENDRA CITY",
+      "time": "23:15",
+      "vbpName": "Mahindracity Main Entrance"
+    },
+    {
+      "id": 1169798,
+      "bpName": "Koyambedu",
+      "time": "22:00",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1567956,
+      "bpName": "Porur",
+      "time": "22:20",
+      "vbpName": "Porur Toolgate"
+    },
+    {
+      "id": 1169805,
+      "bpName": "Perungalathur",
+      "time": "22:45",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 1606380,
+      "bpName": "Guduvancheri",
+      "time": "22:50",
+      "vbpName": "Guduvancherry"
+    },
+    {
+      "id": 1169809,
+      "bpName": "Urappakkam",
+      "time": "22:50",
+      "vbpName": "Urapakkam"
+    },
+    {
+      "id": 1169800,
+      "bpName": "SRM University",
+      "time": "23:15",
+      "vbpName": "Srm College"
+    },
+    {
+      "id": 1606381,
+      "bpName": "Singaperumal koil",
+      "time": "23:25",
+      "vbpName": "Singapermal Kovil"
+    },
+    {
+      "id": 1567957,
+      "bpName": "MAHENDRA CITY",
+      "time": "23:30",
+      "vbpName": "Mahindra City"
+    },
+    {
+      "id": 1606382,
+      "bpName": "Chengalpattu",
+      "time": "23:35",
+      "vbpName": "Chengalpet Tollgate"
+    },
+    {
+      "id": 1573060,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:35",
+      "vbpName": "MaraimalaiNagar"
+    },
+    {
+      "id": 1169788,
+      "bpName": "Chengalpattu",
+      "time": "22:45",
+      "vbpName": "Chengalpet"
+    },
+    {
+      "id": 1446739,
+      "bpName": "Koyambedu",
+      "time": "22:15",
+      "vbpName": "Koyembedu"
+    },
+    {
+      "id": 1446742,
+      "bpName": "Vadapalani",
+      "time": "22:40",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 1446743,
+      "bpName": "Ashok Pillar",
+      "time": "22:45",
+      "vbpName": "Ashokpillar"
+    },
+    {
+      "id": 1236583,
+      "bpName": "Ekkattuthangal",
+      "time": "22:47",
+      "vbpName": "Ekkaduthangal"
+    },
+    {
+      "id": 1446744,
+      "bpName": "Alandur",
+      "time": "22:50",
+      "vbpName": "Guindy(Alandur Post office)"
+    },
+    {
+      "id": 1446745,
+      "bpName": "Shanthi petrol bunk",
+      "time": "22:55",
+      "vbpName": "Shanthi Petrol Bunk"
+    },
+    {
+      "id": 1446746,
+      "bpName": "Meenambakam airport",
+      "time": "23:00",
+      "vbpName": "Airport"
+    },
+    {
+      "id": 1446747,
+      "bpName": "Pallavaram",
+      "time": "23:05",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 560586,
+      "bpName": "Chrompet",
+      "time": "23:10",
+      "vbpName": "Chrompett"
+    },
+    {
+      "id": 1527789,
+      "bpName": "Tambaram",
+      "time": "23:15",
+      "vbpName": "Tambaram Sabari Travels 1"
+    },
+    {
+      "id": 560587,
+      "bpName": "Tambaram",
+      "time": "23:20",
+      "vbpName": "Thambaram  Hindu Mission  Hospitol  No ; 2"
+    },
+    {
+      "id": 781019,
+      "bpName": "Perungalathur",
+      "time": "23:30",
+      "vbpName": "Perugalathur"
+    },
+    {
+      "id": 560590,
+      "bpName": "Urappakkam",
+      "time": "23:35",
+      "vbpName": "Urappakam"
+    },
+    {
+      "id": 1446741,
+      "bpName": "RMK College",
+      "time": "23:40",
+      "vbpName": "Srm College"
+    },
+    {
+      "id": 560603,
+      "bpName": "MAHENDRA CITY",
+      "time": "23:45",
+      "vbpName": "Mahendhra City"
+    },
+    {
+      "id": 560604,
+      "bpName": "Singaperumal koil",
+      "time": "23:50",
+      "vbpName": "Singa Perumal Koil"
+    },
+    {
+      "id": 560605,
+      "bpName": "Chengalpattu",
+      "time": "23:55",
+      "vbpName": "Chengalpatu Toll Gate"
+    },
+    {
+      "id": 539272,
+      "bpName": "Vellore",
+      "time": "21:05",
+      "vbpName": "Vellore"
+    },
+    {
+      "id": 828662,
+      "bpName": "Koyambedu",
+      "time": "21:05",
+      "vbpName": "Mss Bus Terminus"
+    },
+    {
+      "id": 539143,
+      "bpName": "Poonamallee",
+      "time": "21:45",
+      "vbpName": "Poonamallee ByePass"
+    },
+    {
+      "id": 539144,
+      "bpName": "Sriperumbudur",
+      "time": "22:20",
+      "vbpName": "Sriperumbudur"
+    },
+    {
+      "id": 539145,
+      "bpName": "Kanchipuram",
+      "time": "22:35",
+      "vbpName": "Kanchipuram"
+    },
+    {
+      "id": 1669489,
+      "bpName": "T Nagar",
+      "time": "20:30",
+      "vbpName": "T NAGAR (Pickup Van/Bus)"
+    },
+    {
+      "id": 1669468,
+      "bpName": "Central Railway Station",
+      "time": "21:15",
+      "vbpName": "CENTRAL (Pickup Van/Bus)"
+    },
+    {
+      "id": 1669450,
+      "bpName": "Koyambedu",
+      "time": "22:00",
+      "vbpName": "KOYAMBEDU"
+    },
+    {
+      "id": 1564218,
+      "bpName": "Porur",
+      "time": "22:15",
+      "vbpName": "Porur toll gate"
+    },
+    {
+      "id": 1564219,
+      "bpName": "Perungalathur",
+      "time": "22:30",
+      "vbpName": "PERUNGALATHUR"
+    },
+    {
+      "id": 1564220,
+      "bpName": "Guduvancheri",
+      "time": "22:40",
+      "vbpName": "Guduvanchery"
+    },
+    {
+      "id": 1564221,
+      "bpName": "SRM University",
+      "time": "22:45",
+      "vbpName": "SRM UNIVERCITY"
+    },
+    {
+      "id": 1564277,
+      "bpName": "villupuram",
+      "time": "00:00",
+      "vbpName": "Villipuram"
+    },
+    {
+      "id": 1588840,
+      "bpName": "100 FEET ROAD(MMDA COLONY KPN)",
+      "time": "12:30",
+      "vbpName": "100 FEET ROAD(MMDA COLONY KPN)"
+    },
+    {
+      "id": 1597511,
+      "bpName": "Porur",
+      "time": "12:45",
+      "vbpName": "PORUR TOLL GATE"
+    },
+    {
+      "id": 77845,
+      "bpName": "Perungalathur",
+      "time": "13:30",
+      "vbpName": "PERUNGULATHUR(KPN)"
+    },
+    {
+      "id": 1689822,
+      "bpName": "SRM University",
+      "time": "13:40",
+      "vbpName": "SRM UNIVERSITY(POTHERI)"
+    },
+    {
+      "id": 1689823,
+      "bpName": "Maraimalai Nagar",
+      "time": "13:45",
+      "vbpName": "MARAIMALAI NAGAR BUS STAND"
+    },
+    {
+      "id": 1495453,
+      "bpName": "MAHENDRA CITY",
+      "time": "13:55",
+      "vbpName": "MAHENDRA CITY"
+    },
+    {
+      "id": 1691053,
+      "bpName": "Singaperumal koil",
+      "time": "14:00",
+      "vbpName": "SINGAPERUMALKOIL BUS STAND"
+    },
+    {
+      "id": 1133719,
+      "bpName": "Chengalpattu",
+      "time": "14:15",
+      "vbpName": "CHENGALPATTU"
+    },
+    {
+      "id": 1292952,
+      "bpName": "Koyambedu",
+      "time": "20:00",
+      "vbpName": "koyambedu"
+    },
+    {
+      "id": 1292953,
+      "bpName": "Vadapalani",
+      "time": "20:15",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 1292954,
+      "bpName": "Ashok Pillar",
+      "time": "20:25",
+      "vbpName": "Ashok Pillar"
+    },
+    {
+      "id": 1292956,
+      "bpName": "Guindy",
+      "time": "20:35",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 1292957,
+      "bpName": "Shanthi petrol bunk",
+      "time": "20:45",
+      "vbpName": "Shanthi Petrol Bunk"
+    },
+    {
+      "id": 1292958,
+      "bpName": "Pallavaram",
+      "time": "20:50",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 1292959,
+      "bpName": "Chrompet",
+      "time": "21:00",
+      "vbpName": "Chrompet"
+    },
+    {
+      "id": 1292960,
+      "bpName": "Tambaram",
+      "time": "21:15",
+      "vbpName": "Tambaram"
+    },
+    {
+      "id": 1292961,
+      "bpName": "Perungalathur",
+      "time": "21:30",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 1391418,
+      "bpName": "Vandalur",
+      "time": "21:35",
+      "vbpName": "Vandalur"
+    },
+    {
+      "id": 1292963,
+      "bpName": "Chennai",
+      "time": "21:40",
+      "vbpName": "Oorapakkam"
+    },
+    {
+      "id": 1292964,
+      "bpName": "Guduvancheri",
+      "time": "21:45",
+      "vbpName": "Guduvancheri"
+    },
+    {
+      "id": 1292965,
+      "bpName": "RMK College",
+      "time": "21:50",
+      "vbpName": "SRM COLLEGE"
+    },
+    {
+      "id": 1292962,
+      "bpName": "Vandalur",
+      "time": "21:55",
+      "vbpName": "SP Kovil"
+    },
+    {
+      "id": 1292966,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:00",
+      "vbpName": "Maraimalainagar"
+    },
+    {
+      "id": 1292967,
+      "bpName": "MAHENDRA CITY",
+      "time": "22:05",
+      "vbpName": "MAHENDRA CITY"
+    },
+    {
+      "id": 1298330,
+      "bpName": "Chengalpattu",
+      "time": "22:15",
+      "vbpName": "Chengalpat Toll"
+    },
+    {
+      "id": 1620881,
+      "bpName": "Melmaruvathur",
+      "time": "22:45",
+      "vbpName": "Melmaruvathur"
+    },
+    {
+      "id": 1569472,
+      "bpName": "Koyambedu",
+      "time": "21:45",
+      "vbpName": "Koyambedu Omni Bus Stand"
+    },
+    {
+      "id": 1569473,
+      "bpName": "Porur",
+      "time": "22:00",
+      "vbpName": "Porur Toll Gate"
+    },
+    {
+      "id": 1569468,
+      "bpName": "Perungalathur",
+      "time": "22:40",
+      "vbpName": "Perungalathur Shriram Gate"
+    },
+    {
+      "id": 1569474,
+      "bpName": "Vandalur",
+      "time": "22:50",
+      "vbpName": "Vandaloor Bus Stop"
+    },
+    {
+      "id": 1569475,
+      "bpName": "Guduvancheri",
+      "time": "22:55",
+      "vbpName": "Guduvanchery Bus Stop"
+    },
+    {
+      "id": 1569469,
+      "bpName": "SRM University",
+      "time": "23:05",
+      "vbpName": "SRM Univercity"
+    },
+    {
+      "id": 688290,
+      "bpName": "Koyambedu",
+      "time": "19:25",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 688292,
+      "bpName": "Perungalathur",
+      "time": "20:30",
+      "vbpName": "Perungalaltur"
+    },
+    {
+      "id": 1020537,
+      "bpName": "Vandalur",
+      "time": "20:40",
+      "vbpName": "Vandaloor"
+    },
+    {
+      "id": 975163,
+      "bpName": "Kattankulathur",
+      "time": "20:45",
+      "vbpName": "SRM COLLEGE"
+    },
+    {
+      "id": 1020536,
+      "bpName": "MAHENDRA CITY",
+      "time": "21:00",
+      "vbpName": "MAHENDRA CITY"
+    },
+    {
+      "id": 1020535,
+      "bpName": "Chengalpat Toll",
+      "time": "21:45",
+      "vbpName": "Chengalpat Toll"
+    },
+    {
+      "id": 1672477,
+      "bpName": "Kovilambakkam",
+      "time": "19:45",
+      "vbpName": "Kovilambakkam"
+    },
+    {
+      "id": 1661363,
+      "bpName": "Medavakkam",
+      "time": "20:00",
+      "vbpName": "Medavakkam"
+    },
+    {
+      "id": 1661368,
+      "bpName": "Pallikarani",
+      "time": "20:10",
+      "vbpName": "Pallikaranai"
+    },
+    {
+      "id": 1661378,
+      "bpName": "Egmore",
+      "time": "20:15",
+      "vbpName": "Egmore"
+    },
+    {
+      "id": 1672640,
+      "bpName": "Velachery",
+      "time": "20:30",
+      "vbpName": "Vellachery"
+    },
+    {
+      "id": 1672678,
+      "bpName": "Tharamani",
+      "time": "20:40",
+      "vbpName": "Taramani"
+    },
+    {
+      "id": 1672718,
+      "bpName": "Adyar",
+      "time": "20:50",
+      "vbpName": "Adayar"
+    },
+    {
+      "id": 1672758,
+      "bpName": "T Nagar",
+      "time": "21:20",
+      "vbpName": "T Nagar"
+    },
+    {
+      "id": 1672803,
+      "bpName": "Koyambedu",
+      "time": "21:45",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1661404,
+      "bpName": "Porur",
+      "time": "22:00",
+      "vbpName": "Porur Tollgate"
+    },
+    {
+      "id": 1672886,
+      "bpName": "Perungalathur",
+      "time": "22:15",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 1672925,
+      "bpName": "Vandalur",
+      "time": "22:20",
+      "vbpName": "Vandalur"
+    },
+    {
+      "id": 1672957,
+      "bpName": "Urappakkam",
+      "time": "22:25",
+      "vbpName": "Urapakkam"
+    },
+    {
+      "id": 1661423,
+      "bpName": "Guduvancheri",
+      "time": "22:30",
+      "vbpName": "Guduvanchery"
+    },
+    {
+      "id": 1673014,
+      "bpName": "SRM University",
+      "time": "22:35",
+      "vbpName": "Srm"
+    },
+    {
+      "id": 1673037,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:45",
+      "vbpName": "Maraimalainagar"
+    },
+    {
+      "id": 1673058,
+      "bpName": "Singaperumal koil",
+      "time": "22:50",
+      "vbpName": "Singaperumal Koil"
+    },
+    {
+      "id": 1673074,
+      "bpName": "MAHENDRA CITY",
+      "time": "22:55",
+      "vbpName": "Mahindracity"
+    },
+    {
+      "id": 1673100,
+      "bpName": "Chengalpattu",
+      "time": "23:00",
+      "vbpName": "Chengalpattu Tollgate"
+    },
+    {
+      "id": 1463916,
+      "bpName": "Koyambedu",
+      "time": "22:00",
+      "vbpName": "Koyembedu"
+    },
+    {
+      "id": 1463917,
+      "bpName": "Vadapalani",
+      "time": "22:05",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 1044925,
+      "bpName": "Ashok Pillar",
+      "time": "22:15",
+      "vbpName": "Ashok Pillar"
+    },
+    {
+      "id": 1044930,
+      "bpName": "Guindy",
+      "time": "22:20",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 1463918,
+      "bpName": "Pallavaram",
+      "time": "22:30",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 1187777,
+      "bpName": "Chrompet",
+      "time": "22:35",
+      "vbpName": "Chompet"
+    },
+    {
+      "id": 1463919,
+      "bpName": "Tambaram",
+      "time": "22:45",
+      "vbpName": "Tambaram"
+    },
+    {
+      "id": 1044932,
+      "bpName": "Perungalathur",
+      "time": "23:10",
+      "vbpName": "Perugulathur"
+    },
+    {
+      "id": 1326973,
+      "bpName": "Chengalpattu",
+      "time": "23:35",
+      "vbpName": "Chengalpet"
+    },
+    {
+      "id": 1452246,
+      "bpName": "Adyar",
+      "time": "19:30",
+      "vbpName": "Adyar"
+    },
+    {
+      "id": 159607,
+      "bpName": "T Nagar",
+      "time": "20:00",
+      "vbpName": "T Nagar ( S R S Travels) (Pickup Van/Bus)"
+    },
+    {
+      "id": 1452231,
+      "bpName": "Egmore",
+      "time": "20:45",
+      "vbpName": "Egmore"
+    },
+    {
+      "id": 1669437,
+      "bpName": "Koyambedu",
+      "time": "21:45",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1452232,
+      "bpName": "Porur",
+      "time": "21:55",
+      "vbpName": "Porur Toll Gate"
+    },
+    {
+      "id": 187305,
+      "bpName": "Perungalathur",
+      "time": "22:20",
+      "vbpName": "Perungulather SRS Travels"
+    },
+    {
+      "id": 202291,
+      "bpName": "VANDALLUR (PICKUP VAN -3)",
+      "time": "22:30",
+      "vbpName": "Vandalure"
+    },
+    {
+      "id": 385456,
+      "bpName": "Urappakkam",
+      "time": "22:40",
+      "vbpName": "Urappakkam"
+    },
+    {
+      "id": 1161511,
+      "bpName": "Potheri",
+      "time": "22:45",
+      "vbpName": "Potheri"
+    },
+    {
+      "id": 202292,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:50",
+      "vbpName": "Marimalai Nagar"
+    },
+    {
+      "id": 188209,
+      "bpName": "Chengalpattu",
+      "time": "23:00",
+      "vbpName": "Chengalpet"
+    },
+    {
+      "id": 1161344,
+      "bpName": "Urappakkam",
+      "time": "22:30",
+      "vbpName": "Urappakkam"
+    },
+    {
+      "id": 547752,
+      "bpName": "Singaperumal koil",
+      "time": "22:45",
+      "vbpName": "Singaperumal Kovil"
+    },
+    {
+      "id": 1264548,
+      "bpName": "Melmaruvathur",
+      "time": "23:30",
+      "vbpName": "Memaruvathur"
+    },
+    {
+      "id": 1474517,
+      "bpName": "villupuram",
+      "time": "23:55",
+      "vbpName": "Vilupuram"
+    },
+    {
+      "id": 782935,
+      "bpName": "Maduravoyal",
+      "time": "22:20",
+      "vbpName": " Maduravoyal (By Pass)"
+    },
+    {
+      "id": 782936,
+      "bpName": "Porur",
+      "time": "22:25",
+      "vbpName": "Porur  (Toll Gate)"
+    },
+    {
+      "id": 77834,
+      "bpName": "Koyambedu",
+      "time": "20:15",
+      "vbpName": "KOYAMBEDU OMNI BUS STAND"
+    },
+    {
+      "id": 1061029,
+      "bpName": "Koyambedu",
+      "time": "20:30",
+      "vbpName": "Koyembedu"
+    },
+    {
+      "id": 1445694,
+      "bpName": "Ashok Pillar",
+      "time": "21:15",
+      "vbpName": "Ashokpillar"
+    },
+    {
+      "id": 1061034,
+      "bpName": "Guindy",
+      "time": "21:30",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 830129,
+      "bpName": "Pallavaram",
+      "time": "21:45",
+      "vbpName": "Pallavaram Bus Stand"
+    },
+    {
+      "id": 562796,
+      "bpName": "Chrompet",
+      "time": "22:00",
+      "vbpName": "Cromepet"
+    },
+    {
+      "id": 562797,
+      "bpName": "Tambaram",
+      "time": "22:15",
+      "vbpName": "Tambaram Hindu Mission Hospital"
+    },
+    {
+      "id": 562798,
+      "bpName": "Perungalathur",
+      "time": "22:30",
+      "vbpName": "Perungalathur Kamraj Statue"
+    },
+    {
+      "id": 562799,
+      "bpName": "Vandalur",
+      "time": "22:35",
+      "vbpName": "Vandalur Cresent Engineering"
+    },
+    {
+      "id": 1445696,
+      "bpName": "Urappakkam",
+      "time": "22:40",
+      "vbpName": "Urapakkam Bus Stand"
+    },
+    {
+      "id": 1525929,
+      "bpName": "SRM University",
+      "time": "22:45",
+      "vbpName": "Srm University"
+    },
+    {
+      "id": 562801,
+      "bpName": "Guduvancheri",
+      "time": "22:50",
+      "vbpName": "Guduvancherry Bus Stand"
+    },
+    {
+      "id": 562803,
+      "bpName": "Maraimalai Nagar",
+      "time": "22:55",
+      "vbpName": "Maraimalar Nagar Bus Stand"
+    },
+    {
+      "id": 562804,
+      "bpName": "MAHENDRA CITY",
+      "time": "23:00",
+      "vbpName": "Mahendracity Main Entrance"
+    },
+    {
+      "id": 1009954,
+      "bpName": "Chengalpat Toll",
+      "time": "23:15",
+      "vbpName": "Chengulpet  Toll Gate"
+    },
+    {
+      "id": 237012,
+      "bpName": "Koyambedu",
+      "time": "20:30",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1574074,
+      "bpName": "Porur",
+      "time": "20:45",
+      "vbpName": "Porur Toll Gate"
+    },
+    {
+      "id": 237013,
+      "bpName": "Perungalathur",
+      "time": "21:15",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 237014,
+      "bpName": "Guduvancheri",
+      "time": "21:30",
+      "vbpName": "Guduvanchery"
+    },
+    {
+      "id": 834105,
+      "bpName": "Kattankulathur",
+      "time": "21:40",
+      "vbpName": "SRM University"
+    },
+    {
+      "id": 1679239,
+      "bpName": "Adyar",
+      "time": "20:45",
+      "vbpName": "Adayar(Bus Pickup)"
+    },
+    {
+      "id": 364114,
+      "bpName": "Koyambedu",
+      "time": "21:45",
+      "vbpName": "Koyambed-SRM Terminal:"
+    },
+    {
+      "id": 364115,
+      "bpName": "Ashok Pillar",
+      "time": "21:55",
+      "vbpName": "Ashok Pillar"
+    },
+    {
+      "id": 412411,
+      "bpName": "Guindy",
+      "time": "22:00",
+      "vbpName": "Guindy"
+    },
+    {
+      "id": 364116,
+      "bpName": "Shanthi petrol bunk",
+      "time": "22:05",
+      "vbpName": "Shanthi Petrol Bunk"
+    },
+    {
+      "id": 364117,
+      "bpName": "Airport",
+      "time": "22:10",
+      "vbpName": "Airport"
+    },
+    {
+      "id": 364118,
+      "bpName": "Pallavaram",
+      "time": "22:15",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 364119,
+      "bpName": "Chrompet",
+      "time": "22:20",
+      "vbpName": "Chrompet"
+    },
+    {
+      "id": 364120,
+      "bpName": "Tambaram",
+      "time": "22:25",
+      "vbpName": "Tambaram"
+    },
+    {
+      "id": 364121,
+      "bpName": "Perungalathur",
+      "time": "22:30",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 364122,
+      "bpName": "SRM University",
+      "time": "22:45",
+      "vbpName": "SRM University"
+    },
+    {
+      "id": 1606270,
+      "bpName": "MAHENDRA CITY",
+      "time": "22:55",
+      "vbpName": "Mahindra City"
+    },
+    {
+      "id": 1357706,
+      "bpName": "Maduravoyal",
+      "time": "23:15",
+      "vbpName": "Maduravoyal Bus Stop"
+    },
+    {
+      "id": 1005661,
+      "bpName": "Poonamallee",
+      "time": "23:45",
+      "vbpName": "Poonamalee"
+    },
+    {
+      "id": 1005662,
+      "bpName": "Sriperumbudur",
+      "time": "23:55",
+      "vbpName": "sriperumbudur Toll Gate"
+    },
+    {
+      "id": 1591768,
+      "bpName": "Koyambedu",
+      "time": "22:00",
+      "vbpName": "Koyambedu"
+    },
+    {
+      "id": 1488098,
+      "bpName": "Vadapalani",
+      "time": "22:10",
+      "vbpName": "Vadapalani"
+    },
+    {
+      "id": 775457,
+      "bpName": "Ashok Pillar",
+      "time": "22:20",
+      "vbpName": "Ashok Pillar"
+    },
+    {
+      "id": 757263,
+      "bpName": "Guindy",
+      "time": "22:30",
+      "vbpName": "Guindy( Alandur Post Office)"
+    },
+    {
+      "id": 1488099,
+      "bpName": "Meenambakam airport",
+      "time": "22:40",
+      "vbpName": "Airport"
+    },
+    {
+      "id": 1488100,
+      "bpName": "Pallavaram",
+      "time": "22:50",
+      "vbpName": "Pallavaram"
+    },
+    {
+      "id": 757265,
+      "bpName": "Chrompet",
+      "time": "23:00",
+      "vbpName": "Chrompet"
+    },
+    {
+      "id": 1488102,
+      "bpName": "Perungalathur",
+      "time": "23:10",
+      "vbpName": "Perungalathur"
+    },
+    {
+      "id": 1488109,
+      "bpName": "Vandalur",
+      "time": "23:20",
+      "vbpName": "Vandaloor"
+    },
+    {
+      "id": 1488110,
+      "bpName": "Urappakkam",
+      "time": "23:30",
+      "vbpName": "Urappakkam"
+    },
+    {
+      "id": 1067012,
+      "bpName": "Guduvancheri",
+      "time": "23:40",
+      "vbpName": "Guduvancheri"
+    },
+    {
+      "id": 775297,
+      "bpName": "SRM COLLEGE",
+      "time": "23:50",
+      "vbpName": "Srm College"
+    }
+  ],
+  "DPLst": [
+    {
+      "id": 48359,
+      "bpName": "Avinashi",
+      "time": "19:45",
+      "vbpName": "Avinasi New Bus Stand 9362655500^^Avinasi New Bus Stand 9362655500"
+    },
+    {
+      "id": 531343,
+      "bpName": "Tirupur",
+      "time": "04:50",
+      "vbpName": "Tirupur "
+    },
+    {
+      "id": 1112036,
+      "bpName": "Tirupur Office",
+      "time": "06:00",
+      "vbpName": "Tirupur Office"
+    },
+    {
+      "id": 1169820,
+      "bpName": "Thirupur Office",
+      "time": "06:00",
+      "vbpName": "Thirupur Office"
+    },
+    {
+      "id": 813440,
+      "bpName": "Tirupur",
+      "time": "06:45",
+      "vbpName": "Tirupur"
+    },
+    {
+      "id": 1564510,
+      "bpName": "Avinashi",
+      "time": "06:00",
+      "vbpName": "Avinashi"
+    },
+    {
+      "id": 49713,
+      "bpName": "Tirupur",
+      "time": "20:30",
+      "vbpName": "dest-61"
+    },
+    {
+      "id": 1527743,
+      "bpName": "TIRUPUR(VAN PICKUP)",
+      "time": "19:00",
+      "vbpName": "TIRUPUR(VAN PICKUP)"
+    },
+    {
+      "id": 1292971,
+      "bpName": "Tirupur",
+      "time": "04:30",
+      "vbpName": "Tirupur"
+    },
+    {
+      "id": 1569491,
+      "bpName": "PSK Travels",
+      "time": "05:40",
+      "vbpName": "PSK Travels"
+    },
+    {
+      "id": 721186,
+      "bpName": "Pushpa Theatre",
+      "time": "04:30",
+      "vbpName": "Pushpa Theatre"
+    },
+    {
+      "id": 1661457,
+      "bpName": "Tirupur",
+      "time": "05:00",
+      "vbpName": "Tirupur"
+    },
+    {
+      "id": 1191316,
+      "bpName": "Avinashi ",
+      "time": "05:30",
+      "vbpName": "Avinashi "
+    },
+    {
+      "id": 818696,
+      "bpName": "Tirupur",
+      "time": "06:00",
+      "vbpName": "Tirupur ( S R S Travels)"
+    },
+    {
+      "id": 543330,
+      "bpName": "Texcity Services",
+      "time": "05:30",
+      "vbpName": "Texcity Services"
+    },
+    {
+      "id": 1081001,
+      "bpName": "Tirupur",
+      "time": "04:30",
+      "vbpName": "Tirupur"
+    },
+    {
+      "id": 137260,
+      "bpName": "Tirupur",
+      "time": "00:05",
+      "vbpName": "Tirupur"
+    },
+    {
+      "id": 1488104,
+      "bpName": "Tirupur",
+      "time": "05:45",
+      "vbpName": "Tirupur"
+    }
+  ],
+  "blu": null,
+  "BusImageBaseURL": null
+}

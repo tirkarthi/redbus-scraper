@@ -1,0 +1,17 @@
+{
+    "url" : "http://www.redbus.in/search/result",
+    "locations": [
+	{
+	    "src": "Chennai",
+	    "dest": "Tirupur",
+	    "src-id": 123,
+	    "dest-id": 235
+	},
+	{
+	    "src": "Tirupur",
+	    "dest": "Chennai",
+	    "src-id": 235,
+	    "dest-id": 123
+	}
+    ]
+}
